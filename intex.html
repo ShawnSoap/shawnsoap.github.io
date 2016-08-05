@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Qijun's Homepage</title>
+		<link rel="stylesheet" href="http://fonts.useso.com/css?family=Fira+Sans:400,300">
+	</head>
+	<body>
+		<ul>
+			<li>weibo</li>
+			<li>twitter</li>
+			<li>github</li>
+		</ul>
+		<footer>Qijun Shen</footer>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.4.0/trianglify.min.js"></script>
+		<script>
+			var pattern = Trianglify({
+				width: window.innerWidth,
+				height: window.innerHeight
+			});
+			document.body.style.backgroundImage = 'url(' + pattern.png() + ')';
+		</script>
+	</body>
+</html>
