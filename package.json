@@ -1,0 +1,23 @@
+{
+  "name": "shawnsoap.github.io",
+  "version": "1.0.0",
+  "description": "my github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnSoap/shawnsoap.github.io.git"
+  },
+  "keywords": [
+    "github",
+    "page"
+  ],
+  "author": "ShawnSoap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShawnSoap/shawnsoap.github.io/issues"
+  },
+  "homepage": "https://github.com/ShawnSoap/shawnsoap.github.io#readme"
+}
