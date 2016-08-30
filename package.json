@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/ShawnSoap/shawnsoap.github.io/issues"
   },
-  "homepage": "https://github.com/ShawnSoap/shawnsoap.github.io#readme"
+  "homepage": "https://github.com/ShawnSoap/shawnsoap.github.io#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "normalize.css": "^4.2.0"
+  }
 }
